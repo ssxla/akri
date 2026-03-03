@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+aaaa
 check_file_version()
 {
     FILE=$1
